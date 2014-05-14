@@ -1,0 +1,14 @@
+{
+    "description": "description of qt-calc",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "qt-calc": {
+            "apparmor": "qt-calc.json",
+            "desktop": "qt_calc.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.qt-calc",
+    "title": "qt-calc",
+    "version": "0.1"
+}

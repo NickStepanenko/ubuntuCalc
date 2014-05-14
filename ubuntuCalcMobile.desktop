@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ubuntuCalcMobile
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/ubuntuCalcMobile/ubuntuCalcMobile.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

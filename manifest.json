@@ -1,0 +1,14 @@
+{
+    "description": "description of ubuntuCalcMobile",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "ubuntuCalcMobile": {
+            "apparmor": "ubuntuCalcMobile.json",
+            "desktop": "ubuntuCalcMobile.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.ubuntucalcmobile",
+    "title": "ubuntuCalcMobile",
+    "version": "0.1"
+}
